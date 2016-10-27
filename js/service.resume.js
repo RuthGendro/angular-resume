@@ -20,6 +20,8 @@
 		email: 'ruth.gendro@gmail.com',
 
 		github: 'github.com/ruthgendro',
+        
+        githubUrl: 'https://github.com/RuthGendro',
 
 		blog: null,
 
@@ -34,8 +36,7 @@
 		skills : [
 			"JavaScript",
 			"HTML5/CSS",
-			"AngularJS",
-			"Asynchronous Development"
+			"AngularJS"
 		],
 
 		projectsHeader : '<h4>Front End Development Freelancing</h4>' +
@@ -45,26 +46,74 @@
 
 		//List your projects below
 		projects : [
+        	{
+				company : 'Personal Project',
+				projectName : 'Fishing Data Map',
+                projectUrl: 'https://ruthgendro.github.io/neighborhood-map/',
+				dates: '10/16 - Present',
+				skillsUsed : [
+					'JavaScript',
+					'Knockout',
+                    'API Services'
+				],
+				highlights : [
+					'Created a custom map application for keeping track of personal fishing data',
+					'Utilizes Google Maps API and Foursquare API',
+                    'Customized map styling, to make water (lakes) stand out',
+					'Shows map with markers for all the lakes visited, as well as a list view',
+                    'Customized markers, which highlight upon mouseover, and bounce when clicked',
+                    'When clicked, an infowindow shows Foursquare data (fishing data coming soon)'
+				]
+			},
 			{
 				company : 'Wild Wings Studio',
 				projectName : 'Wild Wings Studio Website',
+                projectUrl: 'https://ruthgendro.github.io/WingsWildlifeStudio/',
 				dates: '09/16 - Present',
 				skillsUsed : [
 					'JavaScript',
 					'Bootstrap',
                     'SEO'
 				],
-				tags : [
-					'SEO',
-					'Responsive Design'
-				],
 				highlights : [
-					'',
-					'',
-					'',
-					''
+					'Custom, responsive website utilizing HTML, CSS, JavaScript, jQuery, Bootstrap, and hosted on GitHub Pages.',
+					'Aim to increase web traffic by at least 25%',
+					'Optimizing SEO, want to increase the average page ranking (across a variety of related terms) from an average of 3 or 4 pages to page 1.'
 				]
 			},
+            {
+				company : 'Personal Project',
+				projectName : 'Portfolio',
+                projectUrl: 'https://ruthgendro.github.io/',
+				dates: '09/16 - Present',
+				skillsUsed : [
+					'JavaScript',
+					'Bootstrap',
+                    'AngularJS',
+                    'SEO'
+				],
+				highlights : [
+					'Designed a personal portfolio site, utilizing the skills listed above, as well as Angular to make a single page website (AngularJS development currently in progress.)',
+					'Will increase page optimization to 90+',
+                    'Includes a dyanmic AngularJS resume'
+				]
+			},
+            {
+				company : 'Personal Project',
+				projectName : 'Arcade Game',
+                projectUrl: 'https://ruthgendro.github.io/arcade-game/',
+				dates: '09/16',
+				skillsUsed : [
+					'JavaScript',
+					'Object Oriented Programming',
+                    'HTML5 Canvas'
+				],
+				highlights : [
+					'Created a simple frogger game using Object Oriented Javascript',
+					'Includes Javscript object.prototype for inheritance, switch statements, for loops, and if/else statements',
+                    'Includes several classes, which holds various player and enemy functionality'
+				]
+			}
 
 
 

@@ -44,7 +44,7 @@
 				if (ResumeService.skillIsActive(skill)) {
 					return 'text-primary';
 				}
-				return 'text-muted hide-on-print strike-through';
+				return 'text-muted hide-on-print';
 			};
 
 			$scope.onSkillClicked = function (skill) {
