@@ -58,11 +58,9 @@
 				],
 				highlights : [
 					'Created a custom map application for keeping track of personal fishing data',
-					'Utilizes Google Maps API and Foursquare API',
-                    'Customized map styling, to make water (lakes) stand out',
-					'Shows map with markers for all the lakes visited, as well as a list view',
-                    'Customized markers, which highlight upon mouseover, and bounce when clicked',
-                    'When marker is clicked, an infowindow opens to show Foursquare and fishing data.'
+					'Utilizes Google Maps API and Foursquare API, with customized map styling to make water stand out',
+                    'Shows map with markers for all the lakes visited, including a list view, each of which is linked to the correct marker',
+					'Customized markers, which highlight upon mouseover, and when clicked, it bounces and an info window opens to show Foursquare and fishing data'
 				]
 			},
 			{
@@ -95,7 +93,7 @@
 				highlights : [
 					'Designed a personal portfolio site, utilizing the skills listed above, as well as Angular to make a single page website (AngularJS development currently in progress.)',
 					'Will increase page optimization to 90+',
-                    'Includes a dyanmic AngularJS resume'
+                    'Includes a dynamic AngularJS resume'
 				]
 			},
             {
