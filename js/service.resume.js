@@ -20,7 +20,7 @@
 		email: 'ruth.gendro@gmail.com',
 
 		github: 'github.com/ruthgendro',
-        
+
         githubUrl: 'https://github.com/RuthGendro',
 
 		blog: null,
@@ -50,7 +50,7 @@
 				company : 'Personal Project',
 				projectName : 'Fishing Data Map',
                 projectUrl: 'https://ruthgendro.github.io/neighborhood-map/',
-				dates: '10/16 - Present',
+				dates: '10/16',
 				skillsUsed : [
 					'JavaScript',
 					'Knockout',
@@ -62,7 +62,7 @@
                     'Customized map styling, to make water (lakes) stand out',
 					'Shows map with markers for all the lakes visited, as well as a list view',
                     'Customized markers, which highlight upon mouseover, and bounce when clicked',
-                    'When clicked, an infowindow shows Foursquare data (fishing data coming soon)'
+                    'When marker is clicked, an infowindow opens to show Foursquare and fishing data.'
 				]
 			},
 			{
