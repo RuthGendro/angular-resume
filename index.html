@@ -28,6 +28,16 @@
 			</div>
 			<div data-ng-bind-html="resume.projectsFooter"></div>
 		</div>
+        <div class="row">
+			<h3>Work Experience</h3>
+			<hr>
+			<div data-ng-bind-html="resume.jobsHeader"></div>
+
+			<div data-ng-repeat="job in resume.jobs">
+				<div resume-work data-job="job"></div>
+			</div>
+			<div data-ng-bind-html="resume.jobsFooter"></div>
+		</div>
 		<div class="row">
 			<h3>Education</h3>
 			<div data-ng-repeat="edu in resume.education">
@@ -48,6 +58,7 @@
 	<script src="js/service.resume.js"></script>
 	<script src="js/controller.resume.js"></script>
 	<script src="js/directive.job.js"></script>
+    <script src="js/directive.work.js"></script>
 	<script src="js/directive.edu.js"></script>
 	<script src="js/directive.skill.js"></script>
 	<script src="js/directive.personalInfo.js"></script>

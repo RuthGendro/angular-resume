@@ -36,7 +36,9 @@
 		skills : [
 			"JavaScript",
 			"HTML5/CSS",
-			"AngularJS"
+			"AngularJS",
+            "Responsive Web Design",
+            "Version Control"
 		],
 
 		projectsHeader : '<h4>Front End Development Freelancing</h4>' +
@@ -44,7 +46,8 @@
 
 		projectsFooter : '',
 
-		//List your projects below
+		// Projects
+
 		projects : [
         	{
 				company : 'Personal Project',
@@ -112,9 +115,75 @@
                     'Includes several classes, which holds various player and enemy functionality'
 				]
 			}
+		],
 
+        jobsHeader : '',
+		jobsFooter : '',
 
+		// Work Experience
 
+		jobs : [
+        	{
+				company : 'Front End Developer',
+				jobName : 'Freelancer',
+                jobUrl: 'https://ruthgendro.github.io/',
+				dates: '09/16 - Present',
+				location : 'Remote',
+				highlights : [
+					'Create custom websites and web applications that are performance optimized, responsive (mobile friendly), and search engine optimized',
+					'Utilize HTML, CSS, JS, jQuery, Bootstrap, and occasionally additional libraries/frameworks, including AngularJS, to create user friendly experiences',
+                    'Dedicated to creating your pixel perfect website - see detailed projects below'
+				]
+			},
+			{
+				company : 'Blue Heron',
+				jobName : 'Lead/Event Coordinator',
+                jobUrl: '',
+				dates: '04/16 - Present',
+				location : 'Carnation, Wa',
+				highlights : [
+					'Plan and coordinate events for up to 200 people, paying attention to details about menu, decor, room layout, and other special requests.',
+					'Contributes to team effort by being cross-trained, and working in different positions depending on need.',
+					'Train new employees and bring them up to company standards.',
+                    'Oversee the servers during shifts, and communicate with all employees to make sure everyone is working together to take care of all customers.'
+				]
+			},
+            {
+				company : '6igma Health',
+				jobName : 'Developer Intern',
+                jobUrl: '',
+				dates: '09/15 - 03/16',
+				location : 'Redmond, WA',
+				highlights : [
+					'Contributed to the deevelopment of consumer web application interfaces utilizing HTML, CSS, and AngularJS.',
+					'Built interfaces with responsive web design and UI in mind.',
+                    'Developed front-end unit tests using Jasmine and Karma.'
+				]
+			},
+            {
+				company : 'Hugos',
+				jobName : 'Server',
+                jobUrl: '',
+				dates: '06/13 - 04/16',
+				location : 'Redmond, WA',
+				highlights : [
+					'Created great customer experiences, and listened closely to feedback.',
+					'Effectively worked alone, and completed tasks that a bigger business would have hired up to 7 people for (e.g., bartender, server, manager, expeditor, etc.)'
+				]
+			},
+            {
+				company : 'Steelhead Diner',
+				jobName : 'Floor Manager',
+                jobUrl: '',
+				dates: '04/12 - 06/13',
+				location : 'Seattle, WA',
+				highlights : [
+					'Prepped staff in a daily pre-shift meeting, working with the chef to talk about specials and events going on that day.',
+					'Provided highly personalized guest oriented dining experience.',
+                    'Worked with different teammate on a daily basis, as we worked in pairs during a shift, and both teammates had to communicate and work together effectively.',
+                    'Trained across multiple positions, serving as back-up for FOH staff as needed.'
+				]
+			}
 		],
 
 		//List your education here
