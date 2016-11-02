@@ -15,7 +15,7 @@
 			zip: '98019'
 		},
 
-		phoneNumber: '425 894 5116',
+		phoneNumber: '(425) 894-5116',
 
 		email: 'ruth.gendro@gmail.com',
 

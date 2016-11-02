@@ -40,13 +40,6 @@
 			);
 
 
-			$scope.skillAdditionalClasses = function(skill) {
-				if (ResumeService.skillIsActive(skill)) {
-					return 'text-primary';
-				}
-				return 'text-muted hide-on-print';
-			};
-
 			$scope.onSkillClicked = function (skill) {
 				ResumeService.toggleSkillActive(skill);
 			};
@@ -58,7 +51,7 @@
 			template:   '<table class="table">' +
 							'<tr ng-repeat="skillBlock in skillBlocks" class="text-center" style="line-height: 2em">' +
 								'<td ng-repeat="aSkill in skillBlock track by $index" >' +
-									'<div class="cursor-hand" skill="aSkill" ng-class="skillAdditionalClasses(aSkill)" ng-click="onSkillClicked(aSkill)"></div>' +
+									'<div skill="aSkill" ng-class="skillAdditionalClasses(aSkill)"></div>' +
 								'</td>' +
 							'</tr>' +
 						'</table>',
@@ -69,7 +62,7 @@
 	}]).directive('skill', function () {
 		var linker = function (scope, element/*, attr */) {
 			element.hover(function () {
-				$(this).transition({scale : '1.5'});
+				$(this).transition({scale : '1'});
 			}, function () {
 				$(this).transition({scale : '1'});
 			});
