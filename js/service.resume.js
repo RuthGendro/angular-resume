@@ -38,15 +38,88 @@
 			"HTML5/CSS",
 			"AngularJS",
             "Responsive Web Design",
-            "Version Control"
+            "Version Control",
+            "Python",
+            "PHP",
+            "SQL",
+            "Relational Databases"
 		],
+
+
+		// Work Experience
+
+		jobs : [
+        	{
+				company : 'Front End Developer',
+				jobName : 'Freelancer',
+                jobUrl: 'https://ruthgendro.github.io/',
+				dates: '09/16 - Present',
+				location : 'Remote',
+				highlights : [
+					'Create custom websites and web applications that optimized, responsive, SEO, and driven by UX.',
+					'Utilize AngularJS, HTML, CSS, JavaScript, jQuery, Bootstrap, and occasionally additional libraries/frameworks, to create user friendly experiences.',
+                    'Dedicated to creating pixel perfect websites and applications.'
+				]
+			},
+			{
+				company : 'Blue Heron',
+				jobName : 'Lead/Event Coordinator',
+                jobUrl: '',
+				dates: '04/16 - Present',
+				location : 'Carnation, Wa',
+				highlights : [
+					'Plan and coordinate events for up to 200 people, paying attention to details about menu, decor, room layout, and other special requests.',
+                    'Continually strive for efficiency in a fast-paced environment with competing priorities.',
+                    'Deliver excellent customer experiences as both a lead/coordinator, anticipating needs whenever possible.',
+					'Contributes to team effort by being cross-trained, and working in different positions depending on need.',
+					'Train new employees and bring them up to company standards.'
+				]
+			},
+            {
+				company : '6igma Health',
+				jobName : 'Developer Intern',
+                jobUrl: '',
+				dates: '09/15 - 03/16',
+				location : 'Remote',
+				highlights : [
+					'Contributed to the deevelopment of consumer web application interfaces utilizing HTML, CSS, and AngularJS.',
+					'Built interfaces with responsive web design and UI in mind.',
+                    'Developed front-end unit tests using Jasmine and Karma.'
+				]
+			},
+            {
+				company : 'Hugos',
+				jobName : 'Server',
+                jobUrl: '',
+				dates: '06/13 - 04/16',
+				location : 'Redmond, WA',
+				highlights : [
+					'Created great customer experiences, and listened closely to feedback.',
+					'Effectively worked alone, and completed tasks that a bigger business would have hired up to 7 people for (e.g., bartender, server, manager, expeditor, etc.)'
+				]
+			},
+            {
+				company : 'Steelhead Diner',
+				jobName : 'Floor Manager',
+                jobUrl: '',
+				dates: '04/12 - 06/13',
+				location : 'Seattle, WA',
+				highlights : [
+					'Prepped staff in a daily pre-shift meeting, working with the chef to talk about specials and events going on that day.',
+					'Provided highly personalized guest oriented dining experience.',
+                    'Worked with different teammate on a daily basis, as we worked in pairs during a shift, and both teammates had to communicate and work together effectively.',
+                    'Trained across multiple positions, serving as back-up for FOH staff as needed.'
+				]
+			}
+		],
+
+
+        // Projects
 
 		projectsHeader : '<h4>Front End Development Freelancing</h4>' +
 						 '<h5>Project History</h5>',
 
 		projectsFooter : '',
-
-		// Projects
 
 		projects : [
         	{
@@ -60,10 +133,10 @@
                     'API Services'
 				],
 				highlights : [
-					'Created a custom map application for keeping track of personal fishing data',
-					'Utilizes Google Maps API and Foursquare API, with customized map styling to make water stand out',
-                    'Shows map with markers for all the lakes visited, including a list view, each of which is linked to the correct marker',
-					'Customized markers, which highlight upon mouseover, and when clicked, it bounces and an info window opens to show Foursquare and fishing data'
+					'Created a custom map application for keeping track of personal fishing data.',
+					'Utilizes Google Maps API and Foursquare API, with customized map styling to make water stand out.',
+                    'Shows map with markers for all the lakes visited, including a listview, each linked to the correct marker.',
+					'Customized markers, which highlight on mouseover, animates and opens an info window when clicked, and opens to show Foursquare and fishing data.'
 				]
 			},
 			{
@@ -79,7 +152,7 @@
 				highlights : [
 					'Custom, responsive website utilizing HTML, CSS, JavaScript, jQuery, Bootstrap, and hosted on GitHub Pages.',
 					'Aim to increase web traffic by at least 25%',
-					'Optimizing SEO, want to increase the average page ranking (across a variety of related terms) from an average of 3 or 4 pages to page 1.'
+					'Optimizing SEO, goal is to increase the average page ranking (across a variety of related terms) from an average of 5+ pages back to page 1'
 				]
 			},
             {
@@ -120,73 +193,8 @@
         jobsHeader : '',
 		jobsFooter : '',
 
-		// Work Experience
 
-		jobs : [
-        	{
-				company : 'Front End Developer',
-				jobName : 'Freelancer',
-                jobUrl: 'https://ruthgendro.github.io/',
-				dates: '09/16 - Present',
-				location : 'Remote',
-				highlights : [
-					'Create custom websites and web applications that are performance optimized, responsive (mobile friendly), and search engine optimized',
-					'Utilize HTML, CSS, JS, jQuery, Bootstrap, and occasionally additional libraries/frameworks, including AngularJS, to create user friendly experiences',
-                    'Dedicated to creating your pixel perfect website - see detailed projects below'
-				]
-			},
-			{
-				company : 'Blue Heron',
-				jobName : 'Lead/Event Coordinator',
-                jobUrl: '',
-				dates: '04/16 - Present',
-				location : 'Carnation, Wa',
-				highlights : [
-					'Plan and coordinate events for up to 200 people, paying attention to details about menu, decor, room layout, and other special requests.',
-					'Contributes to team effort by being cross-trained, and working in different positions depending on need.',
-					'Train new employees and bring them up to company standards.',
-                    'Oversee the servers during shifts, and communicate with all employees to make sure everyone is working together to take care of all customers.'
-				]
-			},
-            {
-				company : '6igma Health',
-				jobName : 'Developer Intern',
-                jobUrl: '',
-				dates: '09/15 - 03/16',
-				location : 'Redmond, WA',
-				highlights : [
-					'Contributed to the deevelopment of consumer web application interfaces utilizing HTML, CSS, and AngularJS.',
-					'Built interfaces with responsive web design and UI in mind.',
-                    'Developed front-end unit tests using Jasmine and Karma.'
-				]
-			},
-            {
-				company : 'Hugos',
-				jobName : 'Server',
-                jobUrl: '',
-				dates: '06/13 - 04/16',
-				location : 'Redmond, WA',
-				highlights : [
-					'Created great customer experiences, and listened closely to feedback.',
-					'Effectively worked alone, and completed tasks that a bigger business would have hired up to 7 people for (e.g., bartender, server, manager, expeditor, etc.)'
-				]
-			},
-            {
-				company : 'Steelhead Diner',
-				jobName : 'Floor Manager',
-                jobUrl: '',
-				dates: '04/12 - 06/13',
-				location : 'Seattle, WA',
-				highlights : [
-					'Prepped staff in a daily pre-shift meeting, working with the chef to talk about specials and events going on that day.',
-					'Provided highly personalized guest oriented dining experience.',
-                    'Worked with different teammate on a daily basis, as we worked in pairs during a shift, and both teammates had to communicate and work together effectively.',
-                    'Trained across multiple positions, serving as back-up for FOH staff as needed.'
-				]
-			}
-		],
-
-		//List your education here
+		// Education
 		education : [
 			{
 				degree : 'BA in Chemistry & Biochemistry',
