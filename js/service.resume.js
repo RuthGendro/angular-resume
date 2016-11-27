@@ -35,13 +35,19 @@
 		//will be added at the end
 		skills : [
 			"JavaScript",
-			"HTML5/CSS",
-			"AngularJS",
-            "Responsive Web Design",
-            "Version Control",
+			"HTML4/5",
+            "CSS",
+            "SQL",
             "Python",
             "PHP",
-            "SQL",
+			"AngularJS",
+            "jQuery",
+            "Bootstrap/Foundation",
+            "Jasmine/Karma",
+            "Git/Github",
+            "TDD",
+            "PhotoShop",
+            "SEO",
             "Relational Databases"
 		],
 
@@ -56,9 +62,10 @@
 				dates: '09/16 - Present',
 				location : 'Remote',
 				highlights : [
-					'Create custom websites and web applications that optimized, responsive, SEO, and driven by UX.',
-					'Utilize AngularJS, HTML, CSS, JavaScript, jQuery, Bootstrap, and occasionally additional libraries/frameworks, to create user friendly experiences.',
-                    'Dedicated to creating pixel perfect websites and applications.'
+					'Design and developed custom websites/apps, utilizing the various language, frameworks, and libraries listed above.',
+					'Focused on producing minimalistic and responsive design, with clean and semantic code.',
+                    'Strategically manage multiple projects, despite competing priorities.',
+                    'Optimize all web pages for SEO and cross-browser compatibility.'
 				]
 			},
 			{
