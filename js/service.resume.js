@@ -89,13 +89,13 @@
 				dates: '09/15 - 03/16',
 				location : 'Remote',
 				highlights : [
-					'Contributed to the deevelopment of consumer web application interfaces utilizing HTML, CSS, and AngularJS.',
-					'Built interfaces with responsive web design and UI in mind.',
-                    'Developed front-end unit tests using Jasmine and Karma.'
+					'Developed consumer web application interfaces utilizing HTML, CSS, JS, and AngularJS.',
+					'Performed testing on front end interfaces to perfect intuitive user experiences, enhance visual design, ensure accessibility, and optimize performance.',
+                    'Improved the usability and functionality of pre-designed UI templates through Jasmine/Karma.'
 				]
 			},
             {
-				company : 'Hugos',
+				company : "Hugo's",
 				jobName : 'Server',
                 jobUrl: '',
 				dates: '06/13 - 04/16',
@@ -140,10 +140,10 @@
                     'API Services'
 				],
 				highlights : [
-					'Created a custom map application for keeping track of personal fishing data.',
-					'Utilizes Google Maps API and Foursquare API, with customized map styling to make water stand out.',
-                    'Shows map with markers for all the lakes visited, including a listview, each linked to the correct marker.',
-					'Customized markers, which highlight on mouseover, animates and opens an info window when clicked, and opens to show Foursquare and fishing data.'
+					//'Created a custom map application for keeping track of personal fishing data.',
+					'Implemented Google Maps API and Foursquare API using AJAX requests, which retrieves relevant data.',
+                    'Displays map with markers for all the lakes visited, including a listview, each linked to the correct marker.',
+					'Customized map styling and customized markers, which emphasizes the water and various marker locations.'
 				]
 			},
 			{
@@ -157,9 +157,8 @@
                     'SEO'
 				],
 				highlights : [
-					'Custom, responsive website utilizing HTML, CSS, JavaScript, jQuery, Bootstrap, and hosted on GitHub Pages.',
-					'Aim to increase web traffic by at least 25%',
-					'Optimizing SEO, goal is to increase the average page ranking (across a variety of related terms) from an average of 5+ pages back to page 1'
+					'Implementing changes that will increase SEO and overall optimization.',
+					'Improving online web presence, and aiming for at least 50% increase in web traffic.'
 				]
 			},
             {
