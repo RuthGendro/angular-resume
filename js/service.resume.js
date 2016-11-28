@@ -75,11 +75,12 @@
 				dates: '04/16 - Present',
 				location : 'Carnation, Wa',
 				highlights : [
-					'Plan and coordinate events for up to 200 people, paying attention to details about menu, decor, room layout, and other special requests.',
-                    'Continually strive for efficiency in a fast-paced environment with competing priorities.',
-                    'Deliver excellent customer experiences as both a lead/coordinator, anticipating needs whenever possible.',
-					'Contributes to team effort by being cross-trained, and working in different positions depending on need.',
-					'Train new employees and bring them up to company standards.'
+					'',
+                    //'Plan and coordinate events for up to 200 people, paying attention to details about menu, decor, room layout, and other special requests.',
+                    //'Continually strive for efficiency in a fast-paced environment with competing priorities.',
+                    //'Deliver excellent customer experiences as both a lead/coordinator, anticipating needs whenever possible.',
+					//'Contributes to team effort by being cross-trained, and working in different positions depending on need.',
+					//2'Train new employees and bring them up to company standards.'
 				]
 			},
             {
@@ -152,8 +153,7 @@
                 projectUrl: 'https://ruthgendro.github.io/WingsWildlifeStudio/',
 				dates: '09/16 - Present',
 				skillsUsed : [
-					'JavaScript',
-					'Bootstrap',
+					'jQuery',
                     'SEO'
 				],
 				highlights : [
@@ -168,7 +168,6 @@
 				dates: '09/16 - Present',
 				skillsUsed : [
 					'JavaScript',
-					'Bootstrap',
                     'AngularJS',
                     'SEO'
 				],
