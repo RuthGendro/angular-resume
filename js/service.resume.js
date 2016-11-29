@@ -75,12 +75,8 @@
 				dates: '04/16 - Present',
 				location : 'Carnation, Wa',
 				highlights : [
-					'',
-                    //'Plan and coordinate events for up to 200 people, paying attention to details about menu, decor, room layout, and other special requests.',
-                    //'Continually strive for efficiency in a fast-paced environment with competing priorities.',
-                    //'Deliver excellent customer experiences as both a lead/coordinator, anticipating needs whenever possible.',
-					//'Contributes to team effort by being cross-trained, and working in different positions depending on need.',
-					//2'Train new employees and bring them up to company standards.'
+					'Designed and implemented rotating wine menu to help sell overstock, which increased those selected wine sales by over 100% since implementation.',
+                    'Increased usability and efficiency of the UI for POS systems, which ~50% of employees used regularly, including more buttons, and rearranging visibility of buttons/features for ease of use. '
 				]
 			},
             {
@@ -102,7 +98,7 @@
 				dates: '06/13 - 04/16',
 				location : 'Redmond, WA',
 				highlights : [
-					'Created great customer experiences, and listened closely to feedback.',
+					'Managed the back-end for the RSVP system used, using some of the included marketing tools to increase business, especially for holidays and special events. ',
 					'Effectively worked alone, and completed tasks that a bigger business would have hired up to 7 people for (e.g., bartender, server, manager, expeditor, etc.)'
 				]
 			},
@@ -113,10 +109,9 @@
 				dates: '04/12 - 06/13',
 				location : 'Seattle, WA',
 				highlights : [
-					'Prepped staff in a daily pre-shift meeting, working with the chef to talk about specials and events going on that day.',
-					'Provided highly personalized guest oriented dining experience.',
-                    'Worked with different teammate on a daily basis, as we worked in pairs during a shift, and both teammates had to communicate and work together effectively.',
-                    'Trained across multiple positions, serving as back-up for FOH staff as needed.'
+					'Wrote nightly reports (approx. 250 words) to the owner and co-managers, detailing guest counts, sales, and any issues/problems of note. ',
+					'Lead daily pre-shift meeting, working with the chef to talk about specials and events going on that day.',
+                    'Worked with different teammate on a daily basis, as we worked in pairs during a shift, and both teammates had to communicate and work together effectively. Also trained ~20 new employees.'
 				]
 			}
 		],
